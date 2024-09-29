@@ -1,8 +1,5 @@
 {
   "name": "vanilla-basic",
-  "engines": {
-    "node": ">=16.0.0 <18"
-},
   "version": "1.0.0",
   "scripts": { 
     "start": "sirv ./src public --cors --single --no-clear --port 8000"
